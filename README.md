@@ -15,9 +15,12 @@ To run this tool, make sure you have the following packages installed:
 - datetime
 
 ## Usage
-1. Prepare the needed files with attributes specifications.
 2. Run `generating.py` file. Needed attributes will be randomly created and saved as CSV file.
-
+1. Ensure that the necessary files with attribute specifications are available.
+2. Run the `generating.py` file, which is responsible for the attribute generation process.
+3. The tool will randomly create the required attributes based on the specifications provided.
+4. The generated attributes will be saved as a CSV file, ready for further use and analysis.
+5. 
 ## Contributors
 Agnieszka Chilimoniuk
    
