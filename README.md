@@ -20,7 +20,7 @@ To run this tool, make sure you have the following packages installed:
 2. Run the `generating.py` file, which is responsible for the attribute generation process.
 3. The tool will randomly create the required attributes based on the specifications provided.
 4. The generated attributes will be saved as a CSV file, ready for further use and analysis.
-5. 
+
 ## Contributors
 Agnieszka Chilimoniuk
    
